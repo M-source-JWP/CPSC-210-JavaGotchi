@@ -1,0 +1,19 @@
+{
+    "happiness": 140,
+    "favorite foods": [
+        {
+            "hunger restored": 55,
+            "food name": "Cheeseburger",
+            "energy restored": 15,
+            "happiness restored": 35
+        },
+        {
+            "hunger restored": 25,
+            "food name": "Tiramisu",
+            "energy restored": 30,
+            "happiness restored": 55
+        }
+    ],
+    "hunger": 34,
+    "energy": -10
+}

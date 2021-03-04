@@ -1,0 +1,11 @@
+{
+    "happiness": 95,
+    "favorite foods": [{
+        "hunger restored": 25,
+        "food name": "Tiramisu",
+        "energy restored": 30,
+        "happiness restored": 55
+    }],
+    "hunger": 52,
+    "energy": 30
+}
