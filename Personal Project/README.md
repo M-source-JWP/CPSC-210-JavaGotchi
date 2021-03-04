@@ -10,6 +10,8 @@ Even if I wasn't able to implement a lot of excessive features I was hoping to, 
 and etiquette, and keep my code organized, proper, and documented while maintaining an independent workstyle and pace. In addition, JavaGotchi
 is a simple test of more technical skills like JSON writing and reading, embedding and playing audio files in java, and simultaneous graphical user and command line interfaces.
 
+(ADDENDUM: TURN DOWN your volume before testing the game out, especially with headphones! The playsound() component can be startling if you're not expecting it)
+
 
 ## Reflection:
 With more time to work on my project, I believe I would not spend much time refactoring. Although the current layout of
